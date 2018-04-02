@@ -23,7 +23,7 @@ To Run:
 9.	While still having the CMD up, you should be able to see the output messages are not readable because they are encrypted. 
 
 Libraries Used:
-•	Vue.JS - https://vuejs.org/
+•	Vue.JS - https://vuejs.org/ 
 •	Node.JS - https://nodejs.org/en/ 
 •	Socket.io - https://socket.io/  
 •	JSEncrypt (Stanford U.) – http://travistidwell.com/jsencrypt/ 
