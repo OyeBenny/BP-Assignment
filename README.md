@@ -15,7 +15,7 @@ To Run:
 1.	Unzip package.
 2.	Open CMD.
 3.	cd into the unzipped directory.
-4.	Enter npm start. You should see “BitPay Assignment listening on port 3000.”
+4.	Enter 'npm start'. You should see “BitPay Assignment listening on port 3000.”
 5.	Open your browser and navigate to http://localhost:3000/. There you should see the front end.
 6.	On a 2nd tab, navigate to http://localhost:3000/ again so that you may open two sessions.
 7.	Be sure that both tabs are in the same room channel as shown in the text box on the top right so that both tabs can communicate to each other. 
