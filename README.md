@@ -40,7 +40,7 @@ Resources Referred To:
 •	StackOverflow + GitHub Gists + CodePens
 
 Overview: 
-In this application, 2048 bit RSA encryption is implemented to create a functioning end to end encrypted chat room that fill the above requirements.
+In this application, 2048 bit RSA encryption is implemented to create a functioning end to end encrypted chat room that fills the above requirements.
 
 Concerns:
 Client side browser JavaScript encryption is a touchy subject in InfoSec due to the vulnerabilities and exploits that are inherited in web applications. Most of these issues can be resolved by using HTTPS to prevent man-in-the-middle attacks, but it is central to stay aware of potential vulnerabilities if this is ever hosted online. As it stands this app is good to run locally on your PC.
