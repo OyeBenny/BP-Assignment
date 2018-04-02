@@ -1,0 +1,19 @@
+{
+  "name": "bitpay-assignment",
+  "version": "1.0.0",
+  "node":"9.5.0",
+  "license": "MIT",
+  "author": "villegas.benny@gmail.com",
+  "description": "Bitpay assignment concerning end to end encryption",
+  "main": "app.js",
+  "engines": {
+    "node": ">=7.6"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.16.0",
+    "socket.io": "2.0.3"
+  }
+}
